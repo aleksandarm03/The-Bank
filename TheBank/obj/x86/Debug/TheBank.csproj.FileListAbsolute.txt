@@ -1,0 +1,9 @@
+C:\Users\Aleksandar\AppData\Local\Temporary Projects\TheBank\bin\Debug\TheBank.exe
+C:\Users\Aleksandar\AppData\Local\Temporary Projects\TheBank\bin\Debug\TheBank.pdb
+C:\Users\Aleksandar\AppData\Local\Temporary Projects\TheBank\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aleksandar\AppData\Local\Temporary Projects\TheBank\obj\x86\Debug\TheBank.Form1.resources
+C:\Users\Aleksandar\AppData\Local\Temporary Projects\TheBank\obj\x86\Debug\TheBank.Properties.Resources.resources
+C:\Users\Aleksandar\AppData\Local\Temporary Projects\TheBank\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aleksandar\AppData\Local\Temporary Projects\TheBank\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Aleksandar\AppData\Local\Temporary Projects\TheBank\obj\x86\Debug\TheBank.exe
+C:\Users\Aleksandar\AppData\Local\Temporary Projects\TheBank\obj\x86\Debug\TheBank.pdb
